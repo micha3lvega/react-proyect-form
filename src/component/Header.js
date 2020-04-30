@@ -8,7 +8,7 @@ import { Container } from 'reactstrap';
 const Header = () => (
     <Fragment className="header">
         <Container fluid>
-            <h1 className="display-3">React application</h1>
+            <h1 className="display-3">Form react application</h1>
             <hr/>
         </Container>
     </Fragment>);
