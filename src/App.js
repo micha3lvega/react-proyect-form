@@ -1,9 +1,10 @@
 import React, { Fragment } from 'react';
-import './App.css';
-
-import Header from './component/Header'
-import FormComponent from './component/FormComponent'
 import { Container } from 'reactstrap';
+
+import Header from './components/header/header'
+import FormComponent from './components/formComponent/formComponent'
+
+import './App.css';
 
 function App() {
   return (
